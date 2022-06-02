@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/50031180/dna-to-rna-transcription-code-in-python-3-6-failing-acgtxxxcttaa-test
+
+https://www.geeksforgeeks.org/dna-protein-python-3/
+
+https://www.researchgate.net/publication/325827703_Transcription_and_translation
